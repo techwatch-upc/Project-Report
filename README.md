@@ -211,6 +211,9 @@ El mercado de Smart Home en Latinoamérica alcanzará los USD 3.44 mil millones 
 
 #### 1.2.2.1. Lean UX Problem Statements
 
+**Problem statement:**
+El estado actual de la gestión de hogares inteligentes se ha enfocado en la conexión y control básico de dispositivos IoT, dejando de lado la capacidad de los usuarios para comprender y analizar el comportamiento de esos dispositivos de forma centralizada. Lo que los productos y servicios existentes no logran abordar es la falta de visibilidad sobre métricas de consumo y uso en un formato accesible y unificado, independientemente del tipo de inmueble. Nuestro producto abordará esto mediante una plataforma web de monitoreo y análisis de dispositivos domésticos que presenta dashboards e insights accionables para el usuario. Nuestro enfoque inicial serán propietarios y arrendatarios de casas y departamentos en Perú que buscan gestionar su hogar de forma más inteligente y eficiente. 
+
 #### 1.2.2.2. Lean UX Assumptions
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
