@@ -328,6 +328,39 @@ Ambos segmentos se enmarcan en un contexto regional favorable: el mercado de Sma
 
 ### 2.2.1. Diseño de entrevistas
 
+**Preguntas para ambos segmentos:**
+1. ¿Cuántos años tienes y a qué te dedicas actualmente?
+
+2. ¿Qué dispositivos tecnológicos usas con mayor frecuencia en tu día a día?
+
+3. ¿Tienes algún dispositivo inteligente en tu hogar actualmente? ¿Cuáles?
+
+4. ¿Con qué frecuencia usas aplicaciones web o móviles para gestionar aspectos de tu hogar?
+
+5. ¿Tienes visibilidad sobre el consumo energético de tu hogar? ¿Cómo lo gestionas actualmente?
+
+6. ¿Alguna vez has sentido que no tienes control o información suficiente sobre lo que ocurre con tus dispositivos en casa?
+
+7. ¿Qué tan importante es para ti optimizar el consumo de energía o recursos en tu hogar?
+
+8. Si pudieras ver en una sola pantalla el estado y consumo de todos tus dispositivos domésticos, ¿lo usarías? ¿Qué información te gustaría ver?
+
+9. ¿Estarías dispuesto a pagar una suscripción mensual por acceder a funcionalidades avanzadas de monitoreo de tu hogar?
+
+10. ¿Qué tan importante es para ti que esta herramienta sea accesible desde tu smartphone?
+
+**Preguntas específicas para segmento 1: Propietarios de casas**
+
+11. ¿Cuántos espacios o ambientes tiene tu casa y qué dispositivos inteligentes tienes en cada uno?
+
+12. ¿Has tenido dificultades para gestionar o monitorear varios dispositivos a la vez en distintos espacios de tu casa?
+
+**Preguntas específicas para segmento 2: Arrendatarios y propietarios de departamentos**
+
+11. ¿Tu contrato de arrendamiento o las normas del edificio te permiten instalar dispositivos inteligentes libremente?
+
+12. En un espacio más compacto como un departamento, ¿qué aspectos de tu hogar te gustaría monitorear con mayor detalle?
+
 ### 2.2.2. Registro de entrevistas
 
 ### 2.2.3. Análisis de entrevistas
