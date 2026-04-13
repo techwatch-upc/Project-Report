@@ -421,6 +421,16 @@ Ambos User Personas comparten como tareas de mayor frecuencia e importancia el c
 
 ### 2.3.3. User Journey Mapping
 
+En esta sección se presentan los User Journey Maps elaborados para cada uno de los User Personas identificados, representando la situación As-Is, es decir, la experiencia actual de cada usuario al intentar gestionar y monitorear el consumo de su hogar inteligente sin contar con una solución como TechWatch. El objetivo es ilustrar el recorrido end-to-end de cada segmento, identificando los puntos de fricción, frustraciones y oportunidades de mejora que sustentan la propuesta de valor de la plataforma. Cada journey map fue elaborado en UXPressia y vinculado al User Persona correspondiente, siguiendo las etapas de Detección, Investigación, Gestión y Evaluación, que representan el ciclo natural mediante el cual estos usuarios intentan comprender y optimizar el comportamiento de sus dispositivos domésticos.
+
+**1. User Journey Map para el primer segmento**
+
+![User Journey Map](/assets/images/user-journey-map1.png)
+
+**2. User Journey Map para el segundo segmento**
+
+![User Journey Map](/assets/images/user-journey-map2.png)
+
 ### 2.3.4. Empathy Mapping
 
 ## 2.4. Big Picture Event Storming
