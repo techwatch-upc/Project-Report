@@ -433,6 +433,16 @@ En esta sección se presentan los User Journey Maps elaborados para cada uno de 
 
 ### 2.3.4. Empathy Mapping
 
+A continuación se presentan los Empathy Maps elaborados para cada uno de los User Personas identificados. El proceso de elaboración consistió en colocar al centro de cada mapa al User Persona correspondiente y analizar su perspectiva desde distintas dimensiones: qué necesita hacer, qué ve en su entorno, qué dice, qué hace, qué escucha y qué piensa y siente. A partir de este análisis se identificaron los Pains, relacionados con las principales frustraciones y barreras que enfrenta cada usuario, y los Gains, que representan sus motivaciones y lo que consideraría un resultado exitoso. Los mapas fueron elaborados en UXPressia y vinculados a los User Personas previamente definidos, tomando como base los perfiles construidos a partir del análisis de segmentos y los supuestos del Lean UX Process.
+
+**1. Empathy Map para el primer segmento**
+
+![Empathy Map](/assets/images/empathy-map1.png)
+
+**2. Empathy Map para el segundo segmento**
+
+![Empathy Map](/assets/images/empathy-map2.png)
+
 ## 2.4. Big Picture Event Storming
 
 ## 2.5. Ubiquitous Language
